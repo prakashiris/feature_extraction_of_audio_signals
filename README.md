@@ -16,6 +16,6 @@ Task - Write python code to perform feature extraction from a set of audio signa
 * Not Stressed : stress level from the voice
 
 #Libraries Import:
-librosa,wavw,numpy,scipy,matplotlib,pydub,math,audio
+librosa,wave,numpy,scipy,matplotlib,pydub,math,audio
 
 
